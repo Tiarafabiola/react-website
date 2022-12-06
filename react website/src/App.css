@@ -1,0 +1,25 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+
+.intro {
+    background-image: url(https://video.search.yahoo.com/video/play;_ylt=Awr92EhohYlj.tEWJkX7w8QF;_ylu=c2VjA3NyBHNsawN2aWQEZ3BvcwMyMA--?p=background+html+free&vid=6fa53575debaff741e7581e1271e61ba&turl=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOVP.eEsgP8bX1uuIjR4Oz1gsOgHgFo%26pid%3DApi%26h%3D360%26w%3D480%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhmtIvtUttEY&tit=Gold+Dust+%3Cb%3EFree%3C%2Fb%3E+HD+%3Cb%3EBackground%3C%2Fb%3E+After+Effects+%26amp%3B+Sony+Vegas&c=19&sigr=_PbdEWE8.JQi&sigt=tVXlfKHgnHIu&sigi=6.51lqDczkkU&fr=p%3As%2Cv%3Av&h=360&w=480&l=27&age=1415015556&fr=mcafee&type=E211US885G91645&tt=b);
+    
+}
+
+.section {
+    min-height: 110vh;
+    /* background: linear-gradient(pink, black); */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.avatar {
+    width: 350px;
+}
+
+.social-media {
+    font-size: 35px;
+    color: rgba(0, 0, 0, 0.068);
+    margin-right: 15px;
+    margin-left: 15px;
+}
